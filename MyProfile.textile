@@ -24,6 +24,11 @@ h2. 二次障害について
 
 h2. 相貌失認症について
 
+h2. ウェクスラー式知能検査の結果
+
+ASDの診断は国際的な診断基準に基づいて、精神科医が相談者との面談や検査を行いながら、時間をかけて総合的に判断します。  
+私の場合は医師との面談に加えて、臨床心理士による「AQテスト」と「知能検査」によって診断名が確定しました。  
+
 h2. 参考資料
 
 # "すまいるナビゲーター":https://www.smilenavigator.jp/asd/abc/
@@ -31,3 +36,4 @@ h2. 参考資料
 # "さっぽろ麻生メンタルクリニック":https://www.asabu-mental-clinic.com/subject/11hattatsu_01jihei.html
 # "自閉症について学ぼう":https://wired.jp/2013/04/16/autism/
 # "自閉症について改めるべき4つの誤解":https://gigazine.net/news/20151009-4-misconceptions-about-autism/
+# "NHK福祉情報サイト ハートネット":https://www.nhk.or.jp/heart-net/hattatsu-otona/survive/
