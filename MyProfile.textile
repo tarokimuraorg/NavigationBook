@@ -1,6 +1,8 @@
+<notextile>
 .div-pre {
     white-space: pre;
 }
+</notextile>
 
 h2. ASDについて
 
