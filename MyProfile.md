@@ -79,3 +79,4 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
 - [自閉症について学ぼう](https://wired.jp/2013/04/16/autism/)
 - [自閉症について改めるべき4つの誤解](https://gigazine.net/news/20151009-4-misconceptions-about-autism/)
 - [NHK福祉情報サイト ハートネット](https://www.nhk.or.jp/heart-net/hattatsu-otona/survive/)
+- [Cambridge Face Memory Test](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)
