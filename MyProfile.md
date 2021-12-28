@@ -48,8 +48,16 @@ ABAを受けて成人したジュリア・バスコムさんは、自身のエ�
 まさにパズルが解ける感覚で、それが誰かを認識することはできます。  
 
 しかし、赤の他人かもしれない人に対してそのような行為をとること自体、  
-非常にリスキーで、相手に不快感を与えてしまう可能性もあるため、  
-実用的な解決策とは言えません。  
+相手に不快感を与えてしまうリスキーな一面を否定できないことからも、  
+実用性に乏しいことは容易に想像できるでしょう。  
+  
+## 顔認識能力テスト
+  
+「人の顔を正しく認知できない」と言われても、正直あまりピンと来ない方も多いかと思われます。  
+実際、私の母はいまだに私の症状が理解できないようです。  
+
+そこで、ロンドン大学バークベック・カレッジが公開している「[顔認識能力テスト](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)」を受けてみました。
+日本人用に作られていないため正確な値は出ませんが、結果を以下に貼ります。  
   
 ![スクリーンショット (13)](https://user-images.githubusercontent.com/91779250/147037168-9037c92c-c4e6-49a7-8ead-0b7867bea646.png)
   
@@ -108,3 +116,4 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
 - [NHK福祉情報サイト ハートネット](https://www.nhk.or.jp/heart-net/hattatsu-otona/survive/)
 - [LITALICO発達ナビ](https://h-navi.jp/column/article/35026683)
 - [Cambridge Face Memory Test](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)
+- [新生活で人の顔が覚えられないアナタへ送る｢顔認識能力テスト｣：平均スコア80を越えられるか](https://www.gizmodo.jp/2017/04/cambridge-face-memory-test.html)
