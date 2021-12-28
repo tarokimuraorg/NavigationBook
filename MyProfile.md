@@ -55,8 +55,8 @@ ABAを受けて成人したジュリア・バスコムさんは、自身のエ�
   
 「人の顔を正しく認知できない」と言われても、正直あまりピンと来ない方も多いかと思われます。  
 実際、私の母はいまだに私の症状が理解できないようです。  
-
-そこで、ロンドン大学バークベック・カレッジが公開している「[顔認識能力テスト](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)」を受けてみました。
+  
+そこで、ロンドン大学バークベック・カレッジが公開している「[顔認識能力テスト](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)」を受けてみました。  
 日本人用に作られていないため正確な値は出ませんが、結果を以下に貼ります。  
   
 ![スクリーンショット (13)](https://user-images.githubusercontent.com/91779250/147037168-9037c92c-c4e6-49a7-8ead-0b7867bea646.png)
