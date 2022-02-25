@@ -114,6 +114,7 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
 医師の診断や臨床心理士による知能検査では見えない部分を補うため、  
 遺伝子検査を受けてみました。以下にその結果を記載致します。  
   
+### 社会性
 ![IMG_3276](https://user-images.githubusercontent.com/91779250/155265927-01b41781-29aa-43ba-8f73-c7daf2e46dfa.PNG)
   
 ![IMG_3277](https://user-images.githubusercontent.com/91779250/155265967-51f12826-9414-4b8a-8ce0-35a8f516c6f6.PNG)
