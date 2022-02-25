@@ -136,6 +136,13 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3281](https://user-images.githubusercontent.com/91779250/155652470-32971ca3-f67e-44b8-b363-30fa8179dc24.PNG)
   
+### 損害回避
+  
+日本人の上位34.1％に入るほど、楽天的な性格のようです。  
+この傾向の人は、ネガティブになりにくく、リスクを恐れないという長所もあります。
+  
+![IMG_3282](https://user-images.githubusercontent.com/91779250/155654309-96cb5f60-53b2-43da-8aac-2722612f83f4.PNG)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
