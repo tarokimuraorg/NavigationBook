@@ -117,12 +117,16 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
 ### 社会性
 ![IMG_3276](https://user-images.githubusercontent.com/91779250/155265927-01b41781-29aa-43ba-8f73-c7daf2e46dfa.PNG)
   
+### 慎重性・繊細性
 ![IMG_3277](https://user-images.githubusercontent.com/91779250/155265967-51f12826-9414-4b8a-8ce0-35a8f516c6f6.PNG)
   
+### 勤勉性
 ![IMG_3278](https://user-images.githubusercontent.com/91779250/155266007-352bb829-8796-4073-bfba-6f961792fa7f.PNG)
   
+### 協調性
 ![IMG_3279](https://user-images.githubusercontent.com/91779250/155266070-0eebe58b-08e0-4ac9-ac58-9d6325b4174c.PNG)
   
+### 開放性・文化性
 ![IMG_3280](https://user-images.githubusercontent.com/91779250/155266086-7734f482-3cf3-451e-bc58-f3db8c220dce.PNG)
   
   
