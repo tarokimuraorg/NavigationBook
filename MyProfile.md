@@ -160,6 +160,13 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3286](https://user-images.githubusercontent.com/91779250/156110671-97916bc6-e5ba-431d-bf2c-fad19a294121.PNG)
   
+### ネガティブ思考
+  
+日本人の81.6％が、不安、怒りやそれらに関連したネガティブな感情・行動を引き起こしやすい傾向にある一方、  
+ネガティブ思考になりにくい人の割合は16.9％で、私と同じ遺伝的傾向にある人は少数派のようです。  
+  
+![IMG_3629](https://user-images.githubusercontent.com/91779250/156300315-d6eaebc3-ceeb-4185-8ca1-0a72b7a25a32.jpg)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
