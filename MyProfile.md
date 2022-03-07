@@ -193,6 +193,13 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3674](https://user-images.githubusercontent.com/91779250/156966352-b4b4355d-d25c-4abb-95cb-7b12d012b022.jpg)
   
+### 落ち込みやすさ
+  
+落ち込みやすい傾向の人は抑圧的な感情（絶望や悲しみなど）を抱きやすいそうです。  
+私もこの遺伝的傾向があるため、ミスをした際は「反省だけ」残して、前向きに生きていこうと思います。  
+  
+![IMG_3719](https://user-images.githubusercontent.com/91779250/156968033-a185a489-0932-43b0-a50d-310375c90ecb.jpg)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
