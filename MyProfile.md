@@ -228,6 +228,13 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3654](https://user-images.githubusercontent.com/91779250/157809005-03dbfb0c-1a1f-4557-8b97-474bcc84e8ba.jpg)
   
+### 開放性
+  
+開放性は新たな経験・体験への積極性と関連のある項目で、  
+高い傾向の人は新しい理論やアイデアを受け入れやすく、想像力やアイデアに恵まれているそうです。  
+  
+![IMG_3708](https://user-images.githubusercontent.com/91779250/158109149-94d60a03-d454-4a70-a889-b6a4271a6ee2.jpg)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
