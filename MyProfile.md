@@ -263,6 +263,13 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3680](https://user-images.githubusercontent.com/91779250/158313801-c3486f86-e2b2-47db-9317-65119c2d2ed6.PNG)
   
+### 記憶力
+  
+正直、記憶力には自信があったのですが、遺伝子検査の結果は「やや低い傾向」と出てしまいました。  
+検査機関の報告によると、世界的に見て日本人の記憶力は高いらしく、やや厳しめの判定結果が出ているかもしれないとのことです。  
+  
+![IMG_3707](https://user-images.githubusercontent.com/91779250/158937896-01d9d6ef-f971-4f17-b4cd-f18b49f38a4d.PNG)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
@@ -274,3 +281,4 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
 - [LITALICO発達ナビ](https://h-navi.jp/column/article/35026683)
 - [Cambridge Face Memory Test](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)
 - [新生活で人の顔が覚えられないアナタへ送る｢顔認識能力テスト｣：平均スコア80を越えられるか](https://www.gizmodo.jp/2017/04/cambridge-face-memory-test.html)
+  
