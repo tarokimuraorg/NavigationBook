@@ -270,6 +270,13 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3707](https://user-images.githubusercontent.com/91779250/158937896-01d9d6ef-f971-4f17-b4cd-f18b49f38a4d.PNG)
   
+### 注意力・集中力
+  
+遺伝子検査の結果、私は注意力・集中力が高い傾向にあるようです。  
+ただ、日本人の62.3％がそう判定されるため、アピールポイントとしては弱いかもしれません。  
+  
+![IMG_3698](https://user-images.githubusercontent.com/91779250/159436493-06e03e1b-00fb-4a89-a99b-0f79227fe022.PNG)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
