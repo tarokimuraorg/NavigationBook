@@ -277,6 +277,15 @@ ASDの診断は国際的な診断基準に基づいて、精神科医が相談�
   
 ![IMG_3698](https://user-images.githubusercontent.com/91779250/159436493-06e03e1b-00fb-4a89-a99b-0f79227fe022.PNG)
   
+### 情報処理速度 -Digit Symbol (DS)-
+  
+数字符号置換検査 (digit symbol substitute test) とは、事前に与えられた数値と記号の組み合わせを使って、  
+記号を数値に置き換える、あるいは数値を記号に置き換える作業の速度と正確性を評価する検査です。  
+遺伝的傾向として、私はこの作業があまり得意ではないようですが、知能検査では「平均」と出ていました。  
+遺伝子検査も万能ではないようです。  
+  
+![IMG_3715](https://user-images.githubusercontent.com/91779250/159875772-12664629-78f9-4f30-affc-50c69606c739.PNG)
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
