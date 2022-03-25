@@ -296,6 +296,16 @@ inspection time testでは、被験者にまず長さの異なる2本の線を�
   
 ![IMG_3625](https://user-images.githubusercontent.com/91779250/160075870-101b5eca-3df9-4efc-8183-58bfd6deaba3.PNG)
   
+### 情報処理速度 -Simple RT (SRT)-
+  
+simple reaction time testでは、「笛の音が聞こえたらボタンを押す」ような、単純な情報処理の速度と正確性を評価します。  
+遺伝的傾向として、私はこの検査であまり良い成績を収められないようです。  
+これは自分自身で自覚していることであり、家族からも「リズム感がない」と指摘されることが度々あります。  
+ただむしろ、この短所は私の鉄板ネタであり、心のどこかで「おいしい」と思っている一面もあります。  
+  
+![IMG_3652](https://user-images.githubusercontent.com/91779250/160082602-e22f14e8-2e4f-45be-a372-05d4778edc07.PNG)
+
+  
 ## 参考資料
   
 - [すまいるナビゲーター](https://www.smilenavigator.jp/asd/abc/)
