@@ -291,6 +291,8 @@ KIBRA遺伝子だけに注目すれば、私はTT型を持っているため、
 
 ![IMG_4099](https://user-images.githubusercontent.com/91779250/160788301-6a832f71-cf69-438a-8227-ed996d80fc55.PNG)
   
+
+  
 ### 注意力・集中力
   
 遺伝子検査の結果、私は注意力・集中力が高い傾向にあるようです。  
@@ -345,4 +347,5 @@ simple reaction time testでは、「笛の音が聞こえたらボタンを押�
 - [LITALICO発達ナビ](https://h-navi.jp/column/article/35026683)
 - [Cambridge Face Memory Test](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)
 - [新生活で人の顔が覚えられないアナタへ送る｢顔認識能力テスト｣：平均スコア80を越えられるか](https://www.gizmodo.jp/2017/04/cambridge-face-memory-test.html)
+- [COMT, BDNF, and DTNBP1 polymorphisms and cognitive functions in patients with brain tumors](https://academic.oup.com/neuro-oncology/article/18/10/1425/2222661)
   
