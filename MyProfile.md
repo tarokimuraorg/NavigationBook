@@ -350,4 +350,5 @@ simple reaction time testでは、「笛の音が聞こえたらボタンを押�
 - [Cambridge Face Memory Test](https://www.bbk.ac.uk/psychology/psychologyexperiments/experiments/facememorytest/)
 - [新生活で人の顔が覚えられないアナタへ送る｢顔認識能力テスト｣：平均スコア80を越えられるか](https://www.gizmodo.jp/2017/04/cambridge-face-memory-test.html)
 - [COMT, BDNF, and DTNBP1 polymorphisms and cognitive functions in patients with brain tumors](https://academic.oup.com/neuro-oncology/article/18/10/1425/2222661)
+- [Wikipedia - Recognition memory](https://en.wikipedia.org/wiki/Recognition_memory)
   
