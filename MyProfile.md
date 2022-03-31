@@ -293,7 +293,7 @@ KIBRA遺伝子だけに注目すれば、私はTT型を持っているため、
   
 ある論文では、この遺伝子がGG型の被験者は、対立遺伝子型（AA,AG）を持つ他の被験者と比較して、  
 recognition memory testのスコアが大幅に低くなる傾向にあることが指摘されています。  
-recognition memoryとは、
+再認記憶 (recognition memory) とは、
   
 ### 注意力・集中力
   
